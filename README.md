@@ -1,5 +1,5 @@
 # ShowPlix Movie Web Application 
-SlowPlix is a movie web application build on Omdb Api. SlowPlix prodive all the imformation you need about Movies and Tv show just a search away.
+SlowPlix is a movie web application build on Omdb Api. SlowPlix provide all the imformation you need about Movies and Tv show just a search away.
 
 ### `Live Link:` https://showplix-react-redux-movie-app.vercel.app/
 

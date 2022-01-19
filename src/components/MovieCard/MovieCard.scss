@@ -1,6 +1,7 @@
 @import "../../common/colors.scss";
 .card-item {
   background: $secondary-color;
+  border-radius: 15px;
   cursor: pointer;
   transition: all 0.3s;
 
@@ -14,6 +15,8 @@
   height: 300px;
 
   img {
+  border-radius: 15px 15px 0px 0px ;
+
     width: 100%;
     height: 100%;
   }
